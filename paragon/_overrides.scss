@@ -14,14 +14,14 @@ a#forgot-password {
     display: none !important;
 }
 
-label.pgn__form-control-floating-label-text[htmlFor="emailOrUsername"] {
+.pgn__form-control-floating-label-text[htmlFor="emailOrUsername"] {
     display: none !important;
 }
 
-label.pgn__form-control-floating-label-text[htmlFor="password"] {
+.pgn__form-control-floating-label-text[htmlFor="password"] {
     display: none !important;
 }
 
-button.btn-icon btn-icon-secondary btn-icon-sm[aria-label="Show password"] {
+.btn-icon btn-icon-secondary btn-icon-sm[aria-label="Show password"] {
     display: none !important;
 }
